@@ -1,15 +1,45 @@
-# React + Vite
+## 🎵 Music App
+A simple and interactive Music Web Application built using React.js.<br>
+This app provides a clean interface to browse and play music, focusing on frontend development and UI interaction.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📊 Project Overview
+- Display a collection of music tracks
+- Play and pause audio tracks
+- Simple and user‑friendly interface
+- Responsive design for desktop and mobile devices
+- Built entirely with front‑end technologies
 
-Currently, two official plugins are available:
+## 🛠️ Tools & Technologies
+- React.js – component‑based UI
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- React Hooks & State Management
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Repository Contents
+- src/ – React source code
+- components/ – reusable UI components
+- App.jsx – main application logic
+- index.html – application entry point
+- README.md – project documentation
 
-## Expanding the ESLint configuration
+## 🚀 How to Run
+### Clone the repository
+    git clone https://github.com/Likithkumarr/Music-App.git
+### Navigate to the project folder
+    cd Music-App
+### Install dependencies
+    npm install
+### Start the development server
+    npm run dev
+### Open your browser at
+    http://localhost:5173
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+- 🎵 Music track display
+- ▶️ Play / Pause functionality
+- 📱 Responsive layout
+- 🎨 Clean and simple UI
 
-
-npm install react-youtube
+## 👨‍💻 Author
+Likith Kumar<br>
+GitHub: https://github.com/Likithkumarr
