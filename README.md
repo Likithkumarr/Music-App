@@ -1,5 +1,5 @@
 ## 🎵 Music App
-A simple and interactive Music Web Application built using React.js.<br>
+A simple and interactive **Music Web Application** built using React.js.<br>
 This app provides a clean interface to browse and play music, focusing on frontend development and UI interaction.
 
 ## 📊 Project Overview
